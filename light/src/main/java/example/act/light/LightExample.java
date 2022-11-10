@@ -1,6 +1,5 @@
 package example.act.light;
 
-import static org.requirementsascode.act.core.Data.data;
 import static org.requirementsascode.act.statemachine.StatemachineApi.*;
 
 import org.requirementsascode.act.core.Data;
